@@ -1,0 +1,10 @@
+F:\MedicalStore\admin\bin\Debug\admin.exe.config
+F:\MedicalStore\admin\bin\Debug\admin.exe
+F:\MedicalStore\admin\bin\Debug\admin.pdb
+F:\MedicalStore\admin\obj\Debug\admin.csprojResolveAssemblyReference.cache
+F:\MedicalStore\admin\obj\Debug\admin.Form1.resources
+F:\MedicalStore\admin\obj\Debug\admin.Properties.Resources.resources
+F:\MedicalStore\admin\obj\Debug\admin.csproj.GenerateResource.Cache
+F:\MedicalStore\admin\obj\Debug\admin.exe
+F:\MedicalStore\admin\obj\Debug\admin.pdb
+F:\MedicalStore\admin\obj\Debug\admin.Admin.resources
